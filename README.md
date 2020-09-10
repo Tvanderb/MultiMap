@@ -1,6 +1,6 @@
 # MultiMap
  
-Perform multiple NMap scans simultaneously. This works perfectly on Windows 10, testing on Linux results in a lot of errors. I'm currently working on a version that will work perfectly and just as good as it does on Windows for Linux.
+Perform multiple NMap scans simultaneously. This works perfectly on Windows 10, testing on Linux results in a lot of errors and bugs. I'm currently working on a version that will work perfectly and just as good as it does on Windows for Linux.
 
 ```
 Usage: MMap.py [OPTIONS] HOSTS
