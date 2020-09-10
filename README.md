@@ -1,2 +1,16 @@
 # MultiMap
  
+Perform multiple NMap scans simultaneously.
+
+```
+Usage: MMap.py [OPTIONS] HOSTS
+
+Options:
+  -ns, --no-save           Prevents MultiMap from saving output to files.
+  -oh, --output-here       Create output files in your current directory.
+  -fn, --folder-name TEXT  Choose the name of the folder that will contain the
+                           output files.
+  -y, --yes                Skip the y/n prompt at the beginning.
+  -Pn                      Run ping scans instead of normal NMap scans.
+  --help                   Show this message and exit.
+```
